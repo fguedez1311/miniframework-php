@@ -1,0 +1,40 @@
+[20-Jan-2024 23:29:33 UTC] Hello, errors!
+[20-Jan-2024 23:43:39 UTC] Hello, errors!
+[20-Jan-2024 23:43:49 UTC] Hello, errors!
+[21-Jan-2024 21:12:39 UTC] Hello, errors!
+[21-Jan-2024 21:29:27 UTC] Hello, errors!
+[21-Jan-2024 21:30:18 UTC] Hello, errors!
+[21-Jan-2024 21:41:37 UTC] Hello, errors!
+[21-Jan-2024 21:42:09 UTC] Hello, errors!
+[21-Jan-2024 21:50:38 UTC] Hello, errors!
+[21-Jan-2024 21:51:03 UTC] Hello, errors!
+[21-Jan-2024 21:54:46 UTC] Hello, errors!
+[21-Jan-2024 21:56:52 UTC] Hello, errors!
+[21-Jan-2024 21:57:45 UTC] Hello, errors!
+[21-Jan-2024 22:04:13 UTC] Hello, errors!
+[21-Jan-2024 22:07:50 UTC] Hello, errors!
+[21-Jan-2024 22:31:47 UTC] Hello, errors!
+[21-Jan-2024 22:32:48 UTC] Hello, errors!
+[21-Jan-2024 22:32:58 UTC] Hello, errors!
+[22-Jan-2024 20:36:50 UTC] Hello, errors!
+[22-Jan-2024 20:39:39 UTC] Hello, errors!
+[22-Jan-2024 20:42:53 UTC] Hello, errors!
+[22-Jan-2024 23:53:36 UTC] Hello, errors!
+[22-Jan-2024 23:53:37 UTC] PHP Warning:  Undefined array key "tag_page" in C:\Apache24\htdocs\tienda-virtual\Views\home.php on line 6
+[22-Jan-2024 23:53:37 UTC] PHP Stack trace:
+[22-Jan-2024 23:53:37 UTC] PHP   1. {main}() C:\Apache24\htdocs\tienda-virtual\index.php:0
+[22-Jan-2024 23:53:37 UTC] PHP   2. require_once() C:\Apache24\htdocs\tienda-virtual\index.php:43
+[22-Jan-2024 23:53:37 UTC] PHP   3. Home->home('') C:\Apache24\htdocs\tienda-virtual\Libraries\Core\Load.php:8
+[22-Jan-2024 23:53:37 UTC] PHP   4. Views->getView($controller = class Home { protected $model = class HomeModel { private PDO ${Conexion}conect = *uninitialized*; private ${Mysql}conexion = class PDO { ... }; private ${Mysql}strQuery = NULL; private ${Mysql}arrValues = NULL }; protected $views = class Views {  } }, $view = 'home', $data = ['page_id' => 1, 'page_tag' => 'Home', 'page_title' => 'Página Principal', 'page_name' => 'home', 'page_content' => '  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus omnis fuga voluptatum ratione nesciunt rerum voluptatem placeat sit suscipit optio atque maiores iusto autem praesentium vel, ipsam quo soluta facilis?']) C:\Apache24\htdocs\tienda-virtual\Controllers\Home.php:14
+[22-Jan-2024 23:53:37 UTC] PHP   5. require_once() C:\Apache24\htdocs\tienda-virtual\Libraries\Core\Views.php:12
+[22-Jan-2024 23:54:33 UTC] Hello, errors!
+[23-Jan-2024 00:04:00 UTC] Hello, errors!
+[23-Jan-2024 00:04:23 UTC] Hello, errors!
+[23-Jan-2024 00:04:30 UTC] Hello, errors!
+[23-Jan-2024 00:04:31 UTC] Hello, errors!
+[23-Jan-2024 00:04:32 UTC] Hello, errors!
+[23-Jan-2024 00:04:33 UTC] Hello, errors!
+[23-Jan-2024 00:05:37 UTC] Hello, errors!
+[23-Jan-2024 00:10:19 UTC] Hello, errors!
+[23-Jan-2024 00:11:05 UTC] Hello, errors!
+[23-Jan-2024 00:14:00 UTC] Hello, errors!
