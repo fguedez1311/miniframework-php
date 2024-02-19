@@ -9,7 +9,7 @@
     {
         return BASE_URL."/Assets";
     }
-    function headerAdmin(){
+    function headerAdmin($data=""){
         $view_header="Views/Template/header_admin.php";
         require_once($view_header);
         

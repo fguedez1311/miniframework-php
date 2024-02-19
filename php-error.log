@@ -421,3 +421,374 @@ Stack trace:
 [18-Feb-2024 10:40:06 UTC] Hello, errors!
 [18-Feb-2024 10:40:30 UTC] Hello, errors!
 [18-Feb-2024 10:41:16 UTC] Hello, errors!
+[18-Feb-2024 10:45:19 UTC] Hello, errors!
+[18-Feb-2024 10:45:55 UTC] Hello, errors!
+[18-Feb-2024 10:46:35 UTC] Hello, errors!
+[18-Feb-2024 06:46:35 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:35 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:35 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:35 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:35 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:35 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:35 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:35 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:35 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:46:35 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:35 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:35 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:35 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:35 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:35 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:35 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:35 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:35 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:46:36 UTC] Hello, errors!
+[18-Feb-2024 06:46:36 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:36 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:36 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:36 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:36 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:36 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:36 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:36 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:36 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:46:36 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:36 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:36 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:36 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:36 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:36 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:36 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:36 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:36 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:46:37 UTC] Hello, errors!
+[18-Feb-2024 06:46:37 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:37 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:37 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:37 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:37 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:37 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:37 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:37 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:37 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:46:37 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:46:37 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:46:37 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:46:37 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:46:37 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:46:37 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:46:37 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:46:37 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:46:37 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:47:20 UTC] Hello, errors!
+[18-Feb-2024 06:47:20 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:47:20 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:47:20 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:47:20 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:47:20 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:47:20 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:47:20 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:47:20 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:47:20 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:47:20 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:47:20 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:47:20 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:47:20 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:47:21 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:47:21 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:47:21 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:47:21 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:47:21 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:49:25 UTC] Hello, errors!
+[18-Feb-2024 06:49:25 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:49:25 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:49:25 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:49:25 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:49:25 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:49:25 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:49:25 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:49:25 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:49:25 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:49:25 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:49:25 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:49:25 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:49:25 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:49:25 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:49:25 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:49:25 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:49:25 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:49:25 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:49:31 UTC] Hello, errors!
+[18-Feb-2024 06:49:31 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:49:31 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:49:31 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:49:31 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:49:31 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:49:31 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:49:31 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:49:31 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:49:31 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:49:31 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:49:31 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:49:31 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:49:31 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:49:31 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:49:31 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:49:31 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:49:31 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:49:31 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:50:06 UTC] Hello, errors!
+[18-Feb-2024 06:50:06 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:50:06 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:50:06 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:50:06 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:50:06 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:50:06 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:50:06 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:50:06 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:50:06 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:50:06 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:50:06 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:50:06 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:50:06 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:50:06 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:50:06 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:50:06 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:50:06 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:50:06 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:51:38 UTC] Hello, errors!
+[18-Feb-2024 06:51:38 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:51:38 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:51:38 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:51:38 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:51:38 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:51:38 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:51:38 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:51:38 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:51:38 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:51:38 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:51:38 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:51:38 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:51:38 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:51:38 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:51:38 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:51:38 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:51:38 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:51:38 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:53:44 UTC] Hello, errors!
+[18-Feb-2024 06:53:44 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:53:44 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:53:44 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:53:44 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:53:44 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:53:44 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:53:44 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:53:44 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:53:44 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:53:44 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:53:44 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:53:44 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:53:44 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:53:44 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:53:44 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:53:44 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:53:44 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:53:44 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 10:55:04 UTC] Hello, errors!
+[18-Feb-2024 10:55:13 UTC] Hello, errors!
+[18-Feb-2024 06:55:13 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:55:13 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:55:13 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:55:13 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:55:13 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:55:13 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:55:13 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:55:13 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:55:13 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 06:55:13 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 06:55:13 America/Caracas] PHP Stack trace:
+[18-Feb-2024 06:55:13 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 06:55:13 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 06:55:13 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 06:55:13 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 06:55:13 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 06:55:13 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 06:55:13 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:32:58 UTC] Hello, errors!
+[18-Feb-2024 07:32:58 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:32:58 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:32:58 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:32:58 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:32:58 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:32:58 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:32:58 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:32:58 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:32:58 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:32:58 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:32:58 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:32:58 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:32:58 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:32:58 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:32:58 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:32:58 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:32:58 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:32:58 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:32:58 UTC] Hello, errors!
+[18-Feb-2024 11:32:58 UTC] Hello, errors!
+[18-Feb-2024 11:33:31 UTC] Hello, errors!
+[18-Feb-2024 11:33:33 UTC] Hello, errors!
+[18-Feb-2024 11:33:33 UTC] Hello, errors!
+[18-Feb-2024 11:38:49 UTC] Hello, errors!
+[18-Feb-2024 07:38:49 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:38:49 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:38:49 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:38:49 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:38:49 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:38:49 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:38:49 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:38:49 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:38:49 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:38:49 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:38:49 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:38:49 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:38:49 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:38:49 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:38:49 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:38:49 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:38:49 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:38:49 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:38:49 UTC] Hello, errors!
+[18-Feb-2024 11:38:49 UTC] Hello, errors!
+[18-Feb-2024 11:41:25 UTC] Hello, errors!
+[18-Feb-2024 07:41:25 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:41:25 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:41:25 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:41:25 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:41:25 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:41:25 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:41:25 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:41:25 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:41:25 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:41:25 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:41:25 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:41:25 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:41:25 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:41:25 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:41:25 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:41:25 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:41:25 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:41:25 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:41:26 UTC] Hello, errors!
+[18-Feb-2024 11:41:26 UTC] Hello, errors!
+[18-Feb-2024 11:42:48 UTC] Hello, errors!
+[18-Feb-2024 07:42:48 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:42:48 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:42:48 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:42:48 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:42:48 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:42:48 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:42:48 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:42:48 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:42:48 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:42:48 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:42:48 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:42:48 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:42:48 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:42:48 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:42:48 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:42:48 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:42:48 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:42:48 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:42:49 UTC] Hello, errors!
+[18-Feb-2024 11:42:49 UTC] Hello, errors!
+[18-Feb-2024 11:43:43 UTC] Hello, errors!
+[18-Feb-2024 07:43:43 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:43:43 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:43:43 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:43:43 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:43:43 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:43:43 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:43:43 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:43:43 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:43:43 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:43:43 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:43:43 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:43:43 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:43:43 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:43:43 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:43:43 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:43:43 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:43:43 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:43:43 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:43:43 UTC] Hello, errors!
+[18-Feb-2024 11:43:43 UTC] Hello, errors!
+[18-Feb-2024 11:48:43 UTC] Hello, errors!
+[18-Feb-2024 07:48:43 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:48:43 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:48:43 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:48:43 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:48:43 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:48:43 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:48:43 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:48:43 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:48:43 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:48:43 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:48:43 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:48:43 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:48:43 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:48:43 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:48:43 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:48:43 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:48:43 America/Caracas] PHP   6. headerAdmin() C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:48:43 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:48:43 UTC] Hello, errors!
+[18-Feb-2024 11:48:43 UTC] Hello, errors!
+[18-Feb-2024 11:51:54 UTC] Hello, errors!
+[18-Feb-2024 07:51:54 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:51:54 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:51:54 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:51:54 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:51:54 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:51:54 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:51:54 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:51:54 America/Caracas] PHP   6. headerAdmin(['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:51:54 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:51:54 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:51:54 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:51:54 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:51:54 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:51:54 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:51:54 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:51:54 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:51:54 America/Caracas] PHP   6. headerAdmin(['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:51:54 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:51:55 UTC] Hello, errors!
+[18-Feb-2024 11:51:55 UTC] Hello, errors!
+[18-Feb-2024 11:52:06 UTC] Hello, errors!
+[18-Feb-2024 07:52:06 America/Caracas] PHP Warning:  Undefined variable $data in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:52:06 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:52:06 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:52:06 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:52:06 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:52:06 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:52:06 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:52:06 America/Caracas] PHP   6. headerAdmin(['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:52:06 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 07:52:06 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in C:\Apache24\htdocs\tienda_virtual\Views\Template\header_admin.php on line 17
+[18-Feb-2024 07:52:06 America/Caracas] PHP Stack trace:
+[18-Feb-2024 07:52:06 America/Caracas] PHP   1. {main}() C:\Apache24\htdocs\tienda_virtual\index.php:0
+[18-Feb-2024 07:52:06 America/Caracas] PHP   2. require_once() C:\Apache24\htdocs\tienda_virtual\index.php:43
+[18-Feb-2024 07:52:06 America/Caracas] PHP   3. Dashboard->dashboard('') C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Load.php:8
+[18-Feb-2024 07:52:06 America/Caracas] PHP   4. Views->getView($controller = class Dashboard { protected $model = NULL; protected $views = class Views {  } }, $view = 'dashboard', $data = ['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Controllers\Dashboard.php:13
+[18-Feb-2024 07:52:06 America/Caracas] PHP   5. require_once() C:\Apache24\htdocs\tienda_virtual\Libraries\Core\Views.php:12
+[18-Feb-2024 07:52:06 America/Caracas] PHP   6. headerAdmin(['page_id' => 2, 'page_tag' => 'Dashboard-Tienda Virtual', 'page_title' => 'Dashboard-Tienda Virtual', 'page_name' => 'dashboard']) C:\Apache24\htdocs\tienda_virtual\Views\Dashboard\dashboard.php:2
+[18-Feb-2024 07:52:06 America/Caracas] PHP   7. require_once() C:\Apache24\htdocs\tienda_virtual\Helpers\Helpers.php:14
+[18-Feb-2024 11:52:07 UTC] Hello, errors!
+[18-Feb-2024 11:52:07 UTC] Hello, errors!
+[18-Feb-2024 11:53:20 UTC] Hello, errors!
+[18-Feb-2024 11:53:20 UTC] Hello, errors!
+[18-Feb-2024 11:53:20 UTC] Hello, errors!
+[18-Feb-2024 11:57:59 UTC] Hello, errors!
+[18-Feb-2024 11:58:00 UTC] Hello, errors!
+[18-Feb-2024 11:58:00 UTC] Hello, errors!
+[19-Feb-2024 18:52:15 UTC] Hello, errors!
